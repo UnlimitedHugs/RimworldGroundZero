@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ScenPartDef>
+		<defName>GroundZeroScenario</defName>
+		<label>ground zero</label>
+		<description>Everything on the map has been destroyed, but there are still resources left to salvage.</description>
+		<category>StartingImportant</category>
+		<scenPartClass>GroundZero.ScenPart_GroundZero</scenPartClass>
+		<maxUses>1</maxUses>
+	</ScenPartDef>
+
+</Defs>
